@@ -1,0 +1,165 @@
+[
+	{
+		"date": -13800000000,
+		"timestamp": -13800000000,
+		"label": "Big Bang",
+		"background": [0, 38, 75],
+		"accent": [246, 76, 130, 255],
+		"ticks": 
+		{
+			"background": [20, 57, 92, 240],
+			"long": [255, 255, 255, 75],
+			"short": [255, 255, 255, 51],
+			"text": [255, 255, 255, 157]
+		}
+	},
+	{
+		"date": -13000000000,
+		"label": "Birth of the Milky Way",
+		"id":"milky",
+		"article": "milky_way.txt"
+	},
+	{
+		"date": -4600000000,
+		"label": "Sun is Born",
+		"article":"sun.txt",
+		"accent": [255, 166, 20, 255]
+	},
+	{
+		"date": -4505000000,
+		"label": "Earth is Born",
+		"article":"earth.txt"
+	},
+	{
+		"date": -4100000000,
+		"label": "Heavy Bombardment",
+		"article": "bombardment.txt",
+		"accent": [255, 63, 0, 255]
+	},
+	{
+		"start": -4000000000,
+		"label": "Life on Earth",
+		"article": "life_on_earth.txt",
+		"background": [31, 89, 143],
+		"ticks": 
+		{
+			"background": [27, 79, 128, 240],
+			"long": [255, 255, 255, 75],
+			"short": [255, 255, 255, 51],
+			"text": [255, 255, 255, 157]
+		},
+		"header": 
+		{
+			"background": [27, 79, 128, 240],
+			"text": [255, 255, 255, 157]
+		}
+	},
+	{
+		"date": -3800000000,
+		"label": "Single Celled Organisms",
+		"article":"single_celled_organisms.txt"
+	},
+	{
+		"start": -600000000,
+		"label": "Animals",
+		"article":"animals.txt",
+		"background": [132, 175, 214],
+		"accent": [55, 134, 222, 255],
+		"ticks": 
+		{
+			"background": [113, 152, 188, 240],
+			"long": [255, 255, 255, 75],
+			"short": [255, 255, 255, 51],
+			"text": [255, 255, 255, 157]
+		},
+		"header": 
+		{
+			"background": [113, 152, 188, 240],
+			"text": [255, 255, 255, 157]
+		}
+	},
+	{
+		"date": -530000000,
+		"label": "Fish",
+		"article":"fish.txt",
+		"id":"fish",
+		"accent": [55, 134, 222, 255]
+	},
+	{
+		"date": -396000000,
+		"label": "Insects",
+		"article":"insects.txt",
+		"accent": [55, 134, 222, 255]
+	},
+	{
+		"date": -312000000,
+		"label": "Reptiles",
+		"article":"reptiles.txt",
+		"accent": [55, 134, 222, 255]
+	},
+	{
+		"start": -230000000,
+		"end": -65000000,
+		"label": "Dinosaur Age",
+		"article": "dinosaurs.txt",
+		"id":"dinosaur"
+	},
+	{
+		"date": -150000000,
+		"label": "Stegosaurus",
+		"article":"stegosaurus.txt",
+		"accent": [235, 155, 75, 255]
+	},
+	{
+		"date": -200000000,
+		"label": "Mammals",
+		"article":"mammals.txt",
+		"id":"mammal"
+	},
+	{
+		"date": -68000000,
+		"label": "Tyrannosaurus",
+		"article":"trex.txt",
+		"accent": [235, 155, 75, 255]
+	},
+	{
+		"date": -65000001,
+		"label": "Dinosaur Extinction",
+		"article":"dino_extinction.txt",
+		"accent": [235, 155, 75, 255]
+	},
+	{
+		"start": -6000000,
+		"label": "Humans",
+		"article":"humans.txt",
+		"background": [255, 255, 255],
+		"accent": [202, 79, 63, 255],
+		"ticks": 
+		{
+			"background": [245, 245, 245, 240],
+			"long": [0, 0, 0, 60],
+			"short": [0, 0, 0, 35],
+			"text": [0, 0, 0, 110]
+		},
+		"header": 
+		{
+			"background": [245, 245, 245, 240],
+			"text": [0, 0, 0, 110]
+		}
+	},
+	{
+		"date": -4000000,
+		"label": "Last Common\nAncestor with Apes",
+		"article":"last_common_ancestor_apes.txt"
+	},
+	{
+		"date": -3300000,
+		"label": "Constructed Tools",
+		"article":"tools.txt"
+	},
+	{
+		"date": -1500000,
+		"label": "Control Fire",
+		"article":"fire.txt"
+	}
+]

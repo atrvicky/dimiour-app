@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "551421052604",
+    "project_id": "dimiour-ecb43",
+    "storage_bucket": "dimiour-ecb43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551421052604:android:441eeed9d5a93da80132b9",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551421052604-sv1p67v5hiqk9l761nnh8aqrgjupatv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.app",
+            "certificate_hash": "66a32e28f62181bd7f62b005c059d0410227767f"
+          }
+        },
+        {
+          "client_id": "551421052604-d3ectn0ohg1aa3qpgqiountho73gc2t2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXagvat9JL7UXF3uMcCX_7m4Zz6KhzVnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551421052604-d3ectn0ohg1aa3qpgqiountho73gc2t2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
